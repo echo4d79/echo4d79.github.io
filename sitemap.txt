@@ -3,9 +3,9 @@ https://echo4d79.github.io/2022/12/30/%E7%BB%A7%E7%BB%AD%E6%B5%8B%E8%AF%95/
 https://echo4d79.github.io/2022/11/29/%E8%BF%98%E6%98%AF%E6%B5%8B%E8%AF%95/
 https://echo4d79.github.io/2022/11/20/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/
 https://echo4d79.github.io/2022/11/20/hello-world/
+https://echo4d79.github.io/categories/index.html
 https://echo4d79.github.io/books/index.html
 https://echo4d79.github.io/links/index.html
-https://echo4d79.github.io/categories/index.html
 https://echo4d79.github.io/repository/index.html
 https://echo4d79.github.io/tags/index.html
 https://echo4d79.github.io/
